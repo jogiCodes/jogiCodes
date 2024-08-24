@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish jogi. I am a senior software engineer.
 - 👀 I’m interested in building and making new things.
 - 💞️ I’m looking to collaborate on building and making things that help many humans.
-- 📫 How to reach me jogi.ashish@yahoo.com
+- 📫 How to reach me: jogi.ashish@yahoo.com
 - 😄 Pronouns: he/his
 
 <!---
